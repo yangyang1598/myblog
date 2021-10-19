@@ -1,7 +1,7 @@
 -----
 title: team프로젝트 코드
 -----
-## team project main code
+### team project main code
 
 ``` bash
 import myopencv as my
@@ -466,7 +466,7 @@ pass
 ```
 
 
-## team project myopencv 파일
+### team project myopencv 파일
 
 ~~~bash
 import cv2, pickle
