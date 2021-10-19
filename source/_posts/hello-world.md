@@ -1,24 +1,31 @@
----
-title: Hello World
----
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+----
+title: The first day I made hexo
+----
 
-## Quick Start
 
-### Create a new post
+github 연동 hexo 생성 1일차
 
-``` bash
-$ hexo new "My New Post"
-```
+## 리눅스 명령어 모음
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+git bash를 다루기 위해서는 리눅스 명령어 
+
+More info: [LINUX 명령어 모음](https://dora-guide.com/linux-commands/)
 
 ### Run server
 
+## 머신러닝 직군 질문모음
+
+개발자 및 머신러닝 직군의 면접 예상 질문
+
+More info: [개발자 면접질문](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/#%EA%B3%B5%ED%86%B5-%EC%A7%88%EB%AC%B8)
+
+### Run server
 ``` bash
 $ hexo server
 ```
-
+``` bash
+$ hexo new "My New Post"
+```
 More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
