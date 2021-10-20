@@ -21,3 +21,10 @@ More : [개발자 면접질문](https://zzsza.github.io/data/2018/02/17/datascie
 강사님 캐글의 예시 글
 
 More:[강사님 TPS-April](https://www.kaggle.com/j2hoon85/tps-april-sklearn-pycaret-for-newbies)
+
+#### 파이토치 입문
+
+파이토치 : 2016년에 발표된 딥러닝을 구현을 위한 파이썬 기반의 오픈소스 머신러닝 라이브러리
+TensorFlow와 같이 오픈소스로써 제공됨.
+
+More:[파이토치 입문](https://tutorials.pytorch.kr/beginner/basics/intro.html)
