@@ -10,7 +10,7 @@
 ### Step 1. 모듈 불러오기
 
 
-```bash
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import torch
@@ -159,7 +159,8 @@ for i in range(10):
 
 
     
-![png](output_11_0.png)
+![output_11_0](https://user-images.githubusercontent.com/92699138/138205849-a25c917e-2d5b-40a9-837b-979378064204.png)
+
     
 
 
