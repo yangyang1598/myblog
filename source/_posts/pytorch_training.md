@@ -33,7 +33,8 @@ print(X_val.shape)
 print(y_val.shape)
 ```
 
-![img.png](img.png)
+![img](https://user-images.githubusercontent.com/92699138/138198785-fab5fd49-70a0-42c8-9eb4-d89a90c9645a.png)
+
 
 ```bash
 if len(X_train.shape) == 3:
@@ -71,4 +72,4 @@ print(X_grid.shape)
 
 show(X_grid)
 ```
-![img_1.png](./img_1.png)
+![img_1](https://user-images.githubusercontent.com/92699138/138198810-96081217-4d03-4771-bd96-75a7821be0a7.png)
