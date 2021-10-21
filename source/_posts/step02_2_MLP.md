@@ -1,3 +1,7 @@
+----
+title: MLP 모델 설명 및 MLP방식 데이터 시각화
+----
+
 ## MLP 모델이란?
 - 퍼셉트론이 지니고 있는 한계(비선형 분류 문제 해결)를 극복하기 위해 여러 Layer를 쌓아올린 MLP(Multi Layer Perceptron)가 등장함. 
 - 간단히 비교하면, 
@@ -43,7 +47,7 @@ EPOCHS = 10 # 전체 데이터 셋을 10번 반복해 학습함.
 ### Step 3. 데이터 다운로드
 - torchvision 내 datasets 함수 이용하여 데이터셋 다운로드 합니다.
 - ToTensor() 활용하여 데이터셋을 tensor 형태로 변환
-- 한 픽셀은 0~255 범위의 스칼라 값으로 구성, 이를 0~1 범위에서 정규화 과정 진행
+- 한 픽셀은 0\~255 범위의 스칼라 값으로 구성, 이를 0\~1 범위에서 정규화 과정 진행
 - DataLoader는 일종의 Batch Size 만큼 묶음으로 묶어준다는 의미
   + Batch_size는 Mini-batch 1개 단위를 구성하는 데이터의 개수
   
@@ -158,8 +162,7 @@ for i in range(10):
 ```
 
 
-    
-![output_11_0](https://user-images.githubusercontent.com/92699138/138205849-a25c917e-2d5b-40a9-837b-979378064204.png)
+![](output_11_0.png)
 
     
 
