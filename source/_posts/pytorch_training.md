@@ -71,4 +71,4 @@ print(X_grid.shape)
 
 show(X_grid)
 ```
-![img_1.png](img_1.png)
+![img_1.png](./img_1.png)
